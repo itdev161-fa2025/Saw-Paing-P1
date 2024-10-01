@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://paings:PROJECT1@cluster0.up26g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
